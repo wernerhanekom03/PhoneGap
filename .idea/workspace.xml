@@ -5,8 +5,9 @@
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/config.xml" changelist="eb81d316-e513-4c03-afb7-b1393fef93f3" time="1371077356426" ignored="false" />
-    <file path="/index.html" changelist="eb81d316-e513-4c03-afb7-b1393fef93f3" time="1371117860984" ignored="false" />
-    <file path="/main.js" changelist="eb81d316-e513-4c03-afb7-b1393fef93f3" time="1371118249864" ignored="false" />
+    <file path="/index.html" changelist="eb81d316-e513-4c03-afb7-b1393fef93f3" time="1371119810748" ignored="false" />
+    <file path="/main.js" changelist="eb81d316-e513-4c03-afb7-b1393fef93f3" time="1371119560288" ignored="false" />
+    <file path="/HomeView.js" changelist="eb81d316-e513-4c03-afb7-b1393fef93f3" time="1371119358507" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,25 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="46" selection-start="649" selection-end="649" vertical-scroll-proportion="0.45114595">
+            <state line="27" column="41" selection-start="802" selection-end="802" vertical-scroll-proportion="0.5536791">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="54" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/HomeView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="42" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -46,6 +65,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/js/HomeView.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
@@ -369,13 +389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="38" selection-start="631" selection-end="631" vertical-scroll-proportion="0.41754386">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/PhoneGap/phonegap-workshop-solutions-master/part05/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="27" selection-start="0" selection-end="649" vertical-scroll-proportion="-14.384615">
@@ -383,9 +396,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/PhoneGap/phonegap-workshop-solutions-master/part06/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/HomeView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="42" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="54" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/PhoneGap/phonegap-workshop-solutions-master/part07/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="46" selection-start="649" selection-end="649" vertical-scroll-proportion="0.45114595">
+        <state line="27" column="41" selection-start="802" selection-end="802" vertical-scroll-proportion="0.5536791">
           <folding />
         </state>
       </provider>
