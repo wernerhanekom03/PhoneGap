@@ -5,8 +5,8 @@
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/config.xml" changelist="eb81d316-e513-4c03-afb7-b1393fef93f3" time="1371077356426" ignored="false" />
-    <file path="/index.html" changelist="eb81d316-e513-4c03-afb7-b1393fef93f3" time="1371077505893" ignored="false" />
-    <file path="/main.js" changelist="eb81d316-e513-4c03-afb7-b1393fef93f3" time="1371079035784" ignored="false" />
+    <file path="/index.html" changelist="eb81d316-e513-4c03-afb7-b1393fef93f3" time="1371117860984" ignored="false" />
+    <file path="/main.js" changelist="eb81d316-e513-4c03-afb7-b1393fef93f3" time="1371118249864" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="15" selection-end="15" vertical-scroll-proportion="-0.65384614">
+            <state line="9" column="54" selection-start="291" selection-end="291" vertical-scroll-proportion="-5.8846154">
               <folding />
             </state>
           </provider>
@@ -38,7 +38,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="17" selection-start="1010" selection-end="1010" vertical-scroll-proportion="0.6662708">
+            <state line="33" column="54" selection-start="954" selection-end="954" vertical-scroll-proportion="0.6662708">
               <folding />
             </state>
           </provider>
@@ -229,12 +229,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1040" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1791531" sideWeight="0.6008919" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1791531" sideWeight="0.6008919" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39910814" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -357,13 +357,6 @@
         <state line="9" column="15" selection-start="176" selection-end="176" vertical-scroll-proportion="-5.8846154" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="15" selection-end="15" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/PhoneGap/phonegap-workshop-solutions-master/part04/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="57" selection-start="0" selection-end="1274" vertical-scroll-proportion="0.0">
@@ -378,9 +371,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="54" selection-start="291" selection-end="291" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="17" selection-start="1010" selection-end="1010" vertical-scroll-proportion="0.6662708">
+        <state line="33" column="54" selection-start="954" selection-end="954" vertical-scroll-proportion="0.6662708">
           <folding />
         </state>
       </provider>
